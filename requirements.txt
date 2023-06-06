@@ -1,0 +1,11 @@
+pycryptodome
+jpype1
+JayDeBeApi
+scapy
+lxml
+requests
+aiohttp
+aiodns
+beautifulsoup4
+graphviz
+tabulate
